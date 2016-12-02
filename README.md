@@ -156,7 +156,7 @@ Here is the code to create the workbook of squares discussed above:
 
 (excel/render-to-file
    "squares-template.xlsx"
-   "squares.xslx"
+   "squares.xlsx"
    {"Squares" {3 [[1 1]
                  [2 4]
                  [3 9]]}})
